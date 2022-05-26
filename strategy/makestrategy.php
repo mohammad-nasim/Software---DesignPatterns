@@ -45,7 +45,7 @@ $obj2->Call();
 $obj2 = new MakeStrategy('Steave');
 $obj2->Call();
 
-
+//This is test
 
 
 
